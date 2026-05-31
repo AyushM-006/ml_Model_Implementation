@@ -2,8 +2,6 @@
 
 ## 📌 Project Overview
 
-This project focuses on predicting retail sales using Machine Learning techniques. The goal is to analyze retail sales data, identify patterns that influence sales performance, and build predictive models that can assist businesses in making data-driven decisions.
-
 Three machine learning algorithms were implemented and compared:
 
 - K-Nearest Neighbors (KNN)
