@@ -118,7 +118,6 @@ The performance of all three algorithms was compared to determine the most effec
 
 ---
 
-
 ## 📌 Results
 
 The project demonstrates how machine learning algorithms can be utilized to predict retail sales and support business decision-making. By comparing KNN, Logistic Regression, and Decision Tree models, the strengths and limitations of each approach can be identified.
@@ -131,5 +130,3 @@ The project demonstrates how machine learning algorithms can be utilized to pred
 **Ayush Mandal**
 
 ---
-
-### ⭐ If you found this project useful, consider giving it a star!
