@@ -9,6 +9,7 @@ Three machine learning algorithms were implemented and compared:
 - Decision Tree
 
 The project includes data preprocessing, exploratory data analysis (EDA), model training, evaluation, and performance comparison.
+
 ---
 
 ## 🎯 Objectives
