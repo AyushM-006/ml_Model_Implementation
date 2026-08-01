@@ -122,7 +122,7 @@ The project demonstrates how machine learning algorithms can be utilized to pred
 ---
 
 
-## 👨‍💻 Author
+## 👨‍💻 Author:
 
 **Ayush Mandal**
 
