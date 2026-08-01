@@ -46,7 +46,6 @@ The dataset contains retail sales information such as:
 ## 🔍 Exploratory Data Analysis (EDA)
 
 The following analyses were performed:
-
 - Missing value analysis
 - Data cleaning and preprocessing
 - Feature distribution visualization
