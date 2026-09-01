@@ -125,5 +125,5 @@ The project demonstrates how machine learning algorithms can be utilized to pred
 ## 👨‍💻 Author:
 
 **Ayush Mandal**
-**Computer**
+**Computer Engineering**
 ---
