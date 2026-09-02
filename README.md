@@ -127,4 +127,4 @@ The project demonstrates how machine learning algorithms can be utilized to pred
 **Ayush Mandal**
 
 ---
-**Computer Engineering Stude**
+**Computer Engineering Student**
